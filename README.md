@@ -9,6 +9,4 @@ Packages included
 
 
 
-Command to install PIL
-
-pip install Pillow
+Command to install PIL  -pip install Pillow
