@@ -1,10 +1,6 @@
 """
 Program for simple encryption and decryption of an image
-authors:
-gane-detoxx
-jnth-glitch
 """
-
 import time
 from PIL import Image
 
