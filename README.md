@@ -5,9 +5,10 @@ Image Encryption and Decryption using Python
 
 Packages included
 -PIL
--Time
+,Time
 
 
 
 Command to install PIL
+
 pip install Pillow
